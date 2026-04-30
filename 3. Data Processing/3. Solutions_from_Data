@@ -1,0 +1,25 @@
+Solutions_from_Data.csv
+Description:
+This file contains the results of 9 SQL queries providing data-driven recommendations to the Head of Sales for improving dealership profitability, inventory decisions and expansion strategy.
+
+Key metrics included:
+
+Top makes and models to prioritise in inventory
+
+States with the highest revenue potential
+
+Optimal mileage range for highest selling price
+
+Best sellers to partner with (highest profit margins)
+
+Body types to stock based on recent trends
+
+Recommended price range per make
+
+Condition tier vs profit margin
+
+Transmission type growing in demand
+
+Best manufacturing years to stock
+
+Use this file for: Section 3 of your Looker Studio dashboard (Solutions — Green charts)
