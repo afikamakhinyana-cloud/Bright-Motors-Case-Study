@@ -1,27 +1,24 @@
-1. Problem_Identification.csv
-Description:
-This file contains the results of 10 SQL queries focused on identifying underperforming areas and profitability issues across Bright Motors' sales data.
+### 1. Problem_Identification.csv
 
-Key metrics included:
+**Description:** This file contains the results of 10 SQL queries focused on identifying underperforming areas and profitability issues across Bright Motors' sales data.
 
-Makes and models with negative profit margins
+**Columns included:**
+- make
+- model
+- units_sold
+- avg_selling_price
+- avg_market_value
+- avg_profit
+- avg_margin_pct
+- state
+- total_revenue
+- loss_amount
+- odometer
+- seller
+- body_type
+- missing_pct
+- condition
+- transmission_type
+- year
 
-States with the lowest sales volumes
-
-Cars sold below MMR market value
-
-High mileage cars sold above average price
-
-Sellers consistently selling below market value
-
-Body types with the lowest average selling price
-
-Missing condition score percentage
-
-Low condition cars sold at a loss
-
-Transmission types underperforming in sales
-
-Years of manufacture with the lowest sales
-
-Use this file for: Section 1 of your Looker Studio dashboard (Problem Identification — Red charts)
+**Use this file for:** Section 1 of your Looker Studio dashboard (Problem Identification — Red charts)
