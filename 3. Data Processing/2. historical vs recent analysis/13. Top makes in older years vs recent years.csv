@@ -1,0 +1,107 @@
+make,era,units_sold,total_revenue
+Ford,Older (before 2013),51177,558112044.0
+Nissan,Older (before 2013),36015,373617676.0
+Chevrolet,Older (before 2013),38896,349804831.0
+Bmw,Older (before 2013),16642,284507654.0
+Toyota,Older (before 2013),27210,277675151.0
+Honda,Older (before 2013),23531,226754230.0
+Mercedes-Benz,Older (before 2013),12852,222554836.0
+Infiniti,Older (before 2013),10049,178202535.0
+Lexus,Older (before 2013),9199,152644855.0
+Dodge,Older (before 2013),18003,143421878.0
+Jeep,Older (before 2013),10946,126730027.0
+Gmc,Older (before 2013),8093,111492350.0
+Hyundai,Older (before 2013),10867,94250777.0
+Cadillac,Older (before 2013),6667,85228589.0
+,Older (before 2013),9537,76853084.0
+Audi,Older (before 2013),4591,72646825.0
+Acura,Older (before 2013),5428,69556250.0
+Volkswagen,Older (before 2013),8893,66638941.0
+Chrysler,Older (before 2013),9382,58247607.0
+Kia,Older (before 2013),7384,57864069.0
+Mazda,Older (before 2013),5836,45718186.0
+Lincoln,Older (before 2013),3682,41716212.0
+Ram,Older (before 2013),1906,40625150.0
+Land Rover,Older (before 2013),1501,38252005.0
+Buick,Older (before 2013),3990,33120814.0
+Porsche,Older (before 2013),1036,32092350.0
+Subaru,Older (before 2013),2758,28637955.0
+Mini,Older (before 2013),2561,27189300.0
+Volvo,Older (before 2013),2872,21461652.0
+Jaguar,Older (before 2013),1273,20337925.0
+Pontiac,Older (before 2013),4524,16975076.0
+Mitsubishi,Older (before 2013),2878,16359230.0
+Hummer,Older (before 2013),805,12291938.0
+Saturn,Older (before 2013),2841,9618000.0
+Scion,Older (before 2013),1254,9527250.0
+Mercury,Older (before 2013),2023,7904400.0
+Bentley,Older (before 2013),103,6824400.0
+Maserati,Older (before 2013),105,4020350.0
+Suzuki,Older (before 2013),1026,3765420.0
+Rolls-Royce,Older (before 2013),16,2437800.0
+Ferrari,Older (before 2013),19,2417000.0
+Fiat,Older (before 2013),235,1883401.0
+Saab,Older (before 2013),484,1756000.0
+Smart,Older (before 2013),263,1447650.0
+Aston Martin,Older (before 2013),25,1370300.0
+Mercedes,Older (before 2013),70,523000.0
+Lamborghini,Older (before 2013),4,450500.0
+Fisker,Older (before 2013),9,418150.0
+Oldsmobile,Older (before 2013),384,360750.0
+Isuzu,Older (before 2013),204,348676.0
+Landrover,Older (before 2013),27,310950.0
+Plymouth,Older (before 2013),27,196775.0
+Gmc Truck,Older (before 2013),11,76125.0
+Airstream,Older (before 2013),1,71000.0
+Vw,Older (before 2013),11,65350.0
+Lotus,Older (before 2013),1,40800.0
+Mercedes-B,Older (before 2013),2,27300.0
+Geo,Older (before 2013),19,10050.0
+Mazda Tk,Older (before 2013),1,6500.0
+Ford Tk,Older (before 2013),1,2800.0
+Hyundai Tk,Older (before 2013),1,2100.0
+Chev Truck,Older (before 2013),1,2000.0
+Ford Truck,Older (before 2013),3,1450.0
+Daewoo,Older (before 2013),3,1200.0
+Dodge Tk,Older (before 2013),1,550.0
+Dot,Older (before 2013),1,500.0
+Ford,Recent (2013 and after),42819,804465038.0
+Chevrolet,Recent (2013 and after),21691,373565118.0
+Nissan,Recent (2013 and after),18002,260086129.0
+Toyota,Recent (2013 and after),12756,211414774.0
+Dodge,Recent (2013 and after),12950,202139691.0
+Bmw,Recent (2013 and after),4151,162001859.0
+Kia,Recent (2013 and after),10698,155615194.0
+Mercedes-Benz,Recent (2013 and after),4289,147529070.0
+Hyundai,Recent (2013 and after),10964,145961609.0
+Chrysler,Recent (2013 and after),8101,135256809.0
+Infiniti,Recent (2013 and after),5256,134286655.0
+Jeep,Recent (2013 and after),4537,104783301.0
+Lexus,Recent (2013 and after),2781,89518700.0
+Ram,Recent (2013 and after),2668,75096761.0
+Honda,Recent (2013 and after),3820,71519654.0
+Gmc,Recent (2013 and after),2545,68538820.0
+Lincoln,Recent (2013 and after),2104,55718303.0
+Volkswagen,Recent (2013 and after),3686,51209643.0
+Subaru,Recent (2013 and after),2345,49161681.0
+Audi,Recent (2013 and after),1286,44369150.0
+Mazda,Recent (2013 and after),2672,39787906.0
+Cadillac,Recent (2013 and after),962,29759282.0
+Porsche,Recent (2013 and after),366,23767451.0
+Volvo,Recent (2013 and after),916,21963800.0
+Buick,Recent (2013 and after),1131,21722861.0
+Land Rover,Recent (2013 and after),363,20683600.0
+Mitsubishi,Recent (2013 and after),1379,18485353.0
+,Recent (2013 and after),764,15503049.0
+Acura,Recent (2013 and after),498,13310550.0
+Mini,Recent (2013 and after),663,12509950.0
+Jaguar,Recent (2013 and after),147,7753251.0
+Fiat,Recent (2013 and after),630,7084476.0
+Scion,Recent (2013 and after),433,6632200.0
+Maserati,Recent (2013 and after),31,2092450.0
+Bentley,Recent (2013 and after),13,1802250.0
+Tesla,Recent (2013 and after),23,1542250.0
+Smart,Recent (2013 and after),133,1022150.0
+Suzuki,Recent (2013 and after),52,446700.0
+Vw,Recent (2013 and after),13,262800.0
+Rolls-Royce,Recent (2013 and after),1,171500.0
